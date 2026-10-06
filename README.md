@@ -24,22 +24,22 @@ A style based on a monochromatic colour palette.
 
 <br>
 
-![powershell](./src/images/powershell.png)
+![powershell](./images/powershell.png)
 ---
 *HSL - palette*:
 
 <br>
 
-![hsl palette](./src/schemes/hsl/images/palette.png)
+![hsl palette](./schemes/hsl/images/palette.png)
 ---
 *RGB - palette*:
 
 <br>
 
-![rgb palette](./src/schemes/rgb/images/palette.png)
+![rgb palette](./schemes/rgb/images/palette.png)
 ---
 *HEX - palette*:
 
 <br>
 
-![hex palette](./src/schemes/hex/images/palette.png)
+![hex palette](./schemes/hex/images/palette.png)
