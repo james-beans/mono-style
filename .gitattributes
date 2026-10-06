@@ -1,0 +1,106 @@
+* text=auto eol=lf
+
+# Web / markup & styles formats
+
+*.md linguist-language=markdown
+*.md linguist-detectable=true
+
+*.html linguist-language=html
+*.htm linguist-language=html
+
+*.css  linguist-language=css
+*.scss linguist-language=scss
+*.sass linguist-language=sass
+*.less linguist-language=less
+
+*.astro linguist-language=astro
+*.jsx   linguist-language=javascript
+*.tsx   linguist-language=tsx
+
+*.svg linguist-language=xml
+*.xsl linguist-language=xml
+*.xsd linguist-language=xml
+*.xml linguist-language=xml
+
+# Data formats
+
+*.toml linguist-language=toml
+
+*.yml  linguist-language=yaml
+*.yaml linguist-language=yaml
+
+*.ini  linguist-language=ini
+*.cfg  linguist-language=ini
+*.conf linguist-language=ini
+
+*.json  linguist-language=json
+*.jsonc linguist-language=json-with-comments
+*.json5 linguist-language=json5
+
+# Compiled languages
+
+*.asm  linguist-language=assembly
+*.nasm linguist-language=assembly
+*.nas  linguist-language=assembly
+*.fasm linguist-language=assembly
+*.fas  linguist-language=assembly
+*.inc  linguist-language=assembly
+*.s    linguist-language=assembly
+*.S    linguist-language=assembly
+
+*.c   linguist-language=c
+*.h   linguist-language=c
+*.cpp linguist-language=c++
+*.hpp linguist-language=c++
+
+*.rs linguist-language=rust
+
+*.ts   linguist-language=typescript
+*.d.ts linguist-language=typescript
+
+*.java linguist-language=java
+*.kt   linguist-language=kotlin
+*.kts  linguist-language=kotlin
+*.cs   linguist-language=c#
+
+# Interpreted languages
+
+*.js  linguist-language=javascript
+*.mjs linguist-language=javascript
+*.cjs linguist-language=javascript
+
+*.py  linguist-language=python
+*.pyw linguist-language=python
+*.pyi linguist-language=python
+
+*.lua linguist-language=lua
+
+*.vim  linguist-language=vim-script
+*.viml linguist-language=vim-script
+*vimrc linguist-language=vim-script
+
+*.el  linguist-language=emacs-lisp
+*.elc linguist-language=emacs-lisp
+
+*.lisp linguist-language=common-lisp
+*.lsp  linguist-language=common-lisp
+*.cl   linguist-language=common-lisp
+*.scm  linguist-language=scheme
+*.ss   linguist-language=scheme
+
+# Build systems
+
+*.mk        linguist-language=makefile
+*.gmk       linguist-language=makefile
+*Makefile   linguist-language=makefile
+*makefile   linguist-language=makefile
+GNUmakefile linguist-language=makefile
+
+*.cmake        linguist-language=cmake
+CMakeLists.txt linguist-language=cmake
+
+*.ninja linguist-language=ninja
+
+*.sln linguist-language=microsoft-visual-studio-solution
+
+*.gradle linguist-language=gradle
